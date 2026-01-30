@@ -415,7 +415,7 @@ DB Link - Accessible with your-email@gmail.com - https://dbc-c73516f9-453b.cloud
 
 ![Dashboard PDF](../Supply Chain Demand Forecasting & Inventory Optimization.pdf)
 
-![ML Model Runs](../ML_Model_Runs.png)
+![ML Model Runs](../main/ML_Model_Runs.png)
 
 ![Code](../supply_chain_project/)
 
