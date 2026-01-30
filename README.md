@@ -470,6 +470,10 @@ DB Link - Accessible with your-email@gmail.com - https://dbc-c73516f9-453b.cloud
 
 ![ML Model Runs](../main/ML_Model_Runs.png)
 
+![UC Obejcts](../main/uc_objects.png)
+
+![Workflow](../main/Workflow.png)
+
 ![Code](../main/supply_chain_project/)
 
 ![14-Day-Course-Submissions](https://github.com/sreekavya198/Databricks-14-Day-AI-Challenge)
