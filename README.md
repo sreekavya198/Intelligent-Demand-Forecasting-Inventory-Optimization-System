@@ -407,6 +407,21 @@ System generates 4 priority levels:
 
 ---
 
+###Dashboard: 
+
+DB Link - Accessible with your-email@gmail.com - https://dbc-c73516f9-453b.cloud.databricks.com/dashboardsv3/01f0fdccf42f19c39ae5dba7aa8797e4/published?o=7474653539711185
+
+###Assets:
+
+![Dashboard PDF](../Supply Chain Demand Forecasting & Inventory Optimization.pdf)
+
+![ML Model Runs](../ML_Model_Runs.png)
+
+![Code](../supply_chain_project/)
+
+![14-Day-Course-Submissions](https://github.com/sreekavya198/Databricks-14-Day-AI-Challenge)
+
+
 ## 👥 Team & Contact
 
 **Project Lead**: Sree Kavya Komatineni
