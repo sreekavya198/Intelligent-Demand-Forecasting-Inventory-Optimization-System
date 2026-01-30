@@ -466,7 +466,7 @@ DB Link - Accessible with your-email@gmail.com - https://dbc-c73516f9-453b.cloud
 
 ###Assets:
 
-![Presentation](https://docs.google.com/presentation/d/1NHkxpzUI8y2ERZqn5Bg_ijaPU3ynFOVu/edit?usp=drivesdk&ouid=114185105833982458110&rtpof=true&sd=true)
+Presentation - https://docs.google.com/presentation/d/1NHkxpzUI8y2ERZqn5Bg_ijaPU3ynFOVu/edit?usp=drivesdk&ouid=114185105833982458110&rtpof=true&sd=true
 
 ![Dashboard PDF](../main/SupplyChainDemandForecastingAndInventoryOptimization.pdf)
 
