@@ -416,7 +416,7 @@ System generates 4 priority levels:
 **Contact**: 
 - Email: sreekavya198@gmail.com
 - GitHub: [https://github.com/yourusername/supply-chain-forecasting](https://github.com/sreekavya198/Intelligent-Demand-Forecasting-Inventory-Optimization-System)
-- LinkedIn: https://www.linkedin.com/in/sree-kavya-komatineni-8ab005114/
+- LinkedIn: https://www.linkedin.com/in/sree-kavya-komatineni/
 
 ---
 
