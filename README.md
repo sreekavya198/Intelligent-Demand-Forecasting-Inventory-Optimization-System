@@ -413,11 +413,11 @@ DB Link - Accessible with your-email@gmail.com - https://dbc-c73516f9-453b.cloud
 
 ###Assets:
 
-![Dashboard PDF](../Supply Chain Demand Forecasting & Inventory Optimization.pdf)
+![Dashboard PDF](../main/SupplyChainDemandForecastingAndInventoryOptimization.pdf)
 
 ![ML Model Runs](../main/ML_Model_Runs.png)
 
-![Code](../supply_chain_project/)
+![Code](../main/supply_chain_project/)
 
 ![14-Day-Course-Submissions](https://github.com/sreekavya198/Databricks-14-Day-AI-Challenge)
 
