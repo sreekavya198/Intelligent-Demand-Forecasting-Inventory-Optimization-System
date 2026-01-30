@@ -384,6 +384,59 @@ System generates 4 priority levels:
 
 ---
 
+
+## 🚀 Setup & Installation
+
+### Prerequisites
+- Databricks workspace (Community or Enterprise)
+- Unity Catalog enabled (recommended)
+- Compute cluster - Serverless
+
+### Step 1: Extract Dataset
+1. Download the dataset from Kaggle
+
+### Step 2: Create Unity Catalog Structure - 00_setup_and_config.sql
+```sql
+CREATE CATALOG supply_chain_catalog;
+CREATE SCHEMA supply_chain_catalog.bronze_schema;
+CREATE SCHEMA supply_chain_catalog.silver_schema;
+CREATE SCHEMA supply_chain_catalog.gold_schema;
+CREATE SCHEMA supply_chain_catalog.ml_schema;
+CREATE SCHEMA supply_chain_catalog.analytics_schema;
+```
+
+### Step 3: Upload to Databricks
+1. Upload data files to the UC Volume `/Volumes/supply_chain_catalog/bronze_schema/rossmann`
+3. Update configuration in each notebook:
+   - Catalog name
+   - Schema names
+   - File paths
+     
+### Step 4: Run Notebooks in Order
+1. `00_data_exploration.py` - Understand data
+2. `01_bronze_ingestion.py` - Load raw data
+3. `02_silver_cleaning.py` - Clean and validate
+4. `03_gold_features.py` - Engineer features
+5. `03b_feature_validation.py` - Validation Gold Data
+6. `04_ml_model_training.py` - Train models
+7. `05_inventory_optimization.py` - Generate recommendations
+8. `05b_workflow_automation.py` - Generate WOrkflow to run the notebooks in order
+9. `06_analytics_queries.sql` - Create dashboard views
+
+### Step 5: Create Dashboard
+1. Go to Databricks SQL
+2. Import queries from `06_analytics_queries.sql`
+3. Create visualizations
+4. Arrange in dashboard layout
+
+### Step 6: Setup Workflow
+1. Go to Workflows → Create Job
+2. Enable email notifications
+3. Run End-to-end flow
+
+---
+
+
 ## 📝 References & Resources
 
 ### Datasets
