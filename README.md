@@ -466,6 +466,8 @@ DB Link - Accessible with your-email@gmail.com - https://dbc-c73516f9-453b.cloud
 
 ###Assets:
 
+![Presentation](../main/IntelligentDemandForecastingAndInventoryOptimizationSystem.pptx)
+
 ![Dashboard PDF](../main/SupplyChainDemandForecastingAndInventoryOptimization.pdf)
 
 ![Code](../main/supply_chain_project/)
@@ -487,7 +489,7 @@ DB Link - Accessible with your-email@gmail.com - https://dbc-c73516f9-453b.cloud
 
 **Contact**: 
 - Email: sreekavya198@gmail.com
-- GitHub: [https://github.com/yourusername/supply-chain-forecasting](https://github.com/sreekavya198/Intelligent-Demand-Forecasting-Inventory-Optimization-System)
+- GitHub: https://github.com/sreekavya198/Intelligent-Demand-Forecasting-Inventory-Optimization-System
 - LinkedIn: https://www.linkedin.com/in/sree-kavya-komatineni/
 
 ---
